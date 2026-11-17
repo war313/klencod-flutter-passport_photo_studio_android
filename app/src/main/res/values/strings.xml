@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">صور المعاملات PRO</string>
+    <string name="file_provider_authority">com.example.passportstudio.fileprovider</string>
+</resources>

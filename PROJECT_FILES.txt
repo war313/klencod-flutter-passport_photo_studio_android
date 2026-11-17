@@ -1,0 +1,15 @@
+/mnt/data/passport_photo_studio/.gitignore
+/mnt/data/passport_photo_studio/PROJECT_FILES.txt
+/mnt/data/passport_photo_studio/README.md
+/mnt/data/passport_photo_studio/app/build.gradle.kts
+/mnt/data/passport_photo_studio/app/src/main/AndroidManifest.xml
+/mnt/data/passport_photo_studio/app/src/main/res/drawable/ic_camera.xml
+/mnt/data/passport_photo_studio/app/src/main/res/drawable/ic_gallery.xml
+/mnt/data/passport_photo_studio/app/src/main/res/drawable/ic_launcher_foreground.xml
+/mnt/data/passport_photo_studio/app/src/main/res/values/colors.xml
+/mnt/data/passport_photo_studio/app/src/main/res/values/strings.xml
+/mnt/data/passport_photo_studio/app/src/main/res/values/themes.xml
+/mnt/data/passport_photo_studio/app/src/main/res/xml/file_paths.xml
+/mnt/data/passport_photo_studio/build.gradle.kts
+/mnt/data/passport_photo_studio/gradle.properties
+/mnt/data/passport_photo_studio/settings.gradle.kts
